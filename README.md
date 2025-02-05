@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm SEEPANA PAVAN KUMAR</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=spavankumar1296&label=Profile%20views&color=0e75b6&style=flat" alt="spavankumar1296" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spavankumar1296" alt="spavankumar1296" /></a> </p>
-
 - 🔭 I’m currently working on **web projects**
 
 - 🌱 I’m currently learning **backend development**
